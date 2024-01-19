@@ -23,5 +23,6 @@
 |Suivre le/la partenaire | Déplacement à 3 pieds | 40 % | ne pas se marcher sur les pieds | 6' |
 |Renforcer la stabilité | Aspirateur | 50 % | sécuriser l'impact du tsuki | 4' |
 |Développer la réactivité et la vitesse | Sans les mains | 70 &rarr; 90 % | protections | 5' |
-|Acquérir la sortie d'une attaque
+|Savoir sortir en fin d'attaque | Point marqué que si sortie en ikite | 70 % | intensité modérée | 8' |
+| Retour au calme | Heian shodan au ralenti yeux fermés | 5 % | prendre de l'espace | 3' |
 
