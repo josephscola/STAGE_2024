@@ -1,4 +1,4 @@
-# Tsugi ashi & yuri ashi
+# Ayumi & iki ashi en kokutsu
 
 |Niveau | Age | Objectif annuel | Cycle | Séance |
 |:-:|:-:|:-:|:-:|:-:|
