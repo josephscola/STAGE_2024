@@ -1,4 +1,4 @@
-# Heian-shodan
+# Cycle V : Heian-yodan
 
 Préparation au passage de grade
 - synthèse de l'année
