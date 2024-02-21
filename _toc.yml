@@ -2,17 +2,27 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: saison
-chapters:
-- file: decouverte
-- file: atemi_blocages
-- file: deplacements
-  sections:
-  - file: deplacements_1
-  - file: deplacements_2
-  - file: deplacements_3
-  - file: deplacements_4
-  - file: deplacements_5
-- file: geri
-- file: heian_shodan
-- file: annexes/anatomie
+root: progression
+parts:
+  - caption: Ceinture blanche-jaune
+    chapters:
+    - file: saison_1/decouverte
+    - file: saison_1/atemi_blocages
+    - file: saison_1/deplacements
+      sections:
+      - file: saison_1/deplacements_1
+      - file: saison_1/deplacements_2
+      - file: saison_1/deplacements_3
+      - file: saison_1/deplacements_4
+      - file: saison_1/deplacements_5
+    - file: saison_1/geri
+    - file: saison_1/heian_shodan
+  - caption: Ceinture orange-verte
+    chapters:
+    - file: saison_2/geri
+      sections:
+      - file: saison_2/yoko_geri
+    - file: saison_2/heian_sandan
+  - caption: Annexes
+    chapters:
+    - file: annexes/anatomie
