@@ -19,6 +19,9 @@ parts:
     - file: saison_1/heian_shodan
   - caption: Ceinture orange-verte
     chapters:
+    - file: saison_2/atemi
+      sections:
+        - file: saison_2/gyaku_zuki
     - file: saison_2/geri
       sections:
       - file: saison_2/yoko_geri
