@@ -1,40 +1,36 @@
 # Cycle II : Atemi
 
 ## Objectifs :
-1. techniques de déplacements de base pour le travail en kyon et kyon kumite
-2. développer la latéralité
-3. entraînement à la vitesse et la stabilité
+1. Améliorer l'exécution des techniques de base
+2. Découvrir des techniques de frappe avancées (kata, kumite)
 
-## Sélection de déplacements
-- ayumi ashi
-- iki ashi
-- kaite
-- tsugi ashi
-- yuri ashi
+## Sélection de techniques
+- gyaku zuki
+- uraken
+- kizami zuki
 
 ## Exercices
 ### Technique
-- Décomposition
-- Exagérer
-- Slomo
-- Virgule
-- Mini-Sumo
-- Motoculteur
+- Miroir
 
-### Latéralité
-- Groupir multidirectionnel
-- Miroir (imitation)
-- Quadrille (commandement)
-- Télécommande (partenaire)
-- Déplacement à 3 pieds
+### Précision/distance
+- Dans le mille qui bouge vertical
+- Cible distance variable
+- Lâché de cible
 
 ### Vitesse
 - La Machine
 - Tournoi
-- Blocage sans les mains
+- Grand-Prix par équipe
+> deux ou trois (si l'effectif est supérieur ou égal à 9) équipes s'affrontent dans une série d'épreuves chacune en plusieurs manches. Les équipes se donnent un nom. Capitanat = par ordre de grade.
+- concours de puissance (arbitré par ens)
+- course de vitesse (technique répétée à l'autre bout du tatami, déplacement)
+- kumite à thème (technique, garde, durée). Si trois équipes, la troisième arbitre
 
-### Stabilité
-- Aspirateur
+
+### Puissance
+- Défonce-pao
+- Locomotive (ataché à un élastique)
 
 ```{tableofcontents}
 ```
