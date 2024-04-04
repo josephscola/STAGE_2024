@@ -16,7 +16,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |Échauffement articulations | priorité membres supérieurs | 60 % | | 5' |
 |Échauffement spécifique/cardio | marches animaux (éléphant, gorille, araignée, lapin, canard) | 60 % | | 10' |
-|Intégrer les 3 exercices d'application | Miroir : shoko &rarr; ura &rarr; tate &rarr; gyaku | | 5' |
+|Intégrer les 3 exercices d'application | Kyon Miroir : shoko &rarr; ura &rarr; tate &rarr; gyaku | | | 5' |
 |Utiliser la propulsion de la **jambe dans gyaku** | défonce pao ura zuki (par 2) x20 g & d| 95 % | viser le pao, protéger porteur·se | 4'|
 |Utiliser la rotation des **hanches dans gyaku** | défonce pao tate zuki (par 2) x20 g & d| 95 % | viser le pao, protéger porteur·se | 4'|
 |Combiner jambe, hanches et bras dans gyaku | défonce pao gyaku zuki (par 2) x20 g & d| 95 % | viser le pao, protéger porteur·se | 4'|

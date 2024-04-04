@@ -17,6 +17,9 @@ parts:
       - file: saison_1/deplacements_5
     - file: saison_1/geri
     - file: saison_1/heian_shodan
+      sections:
+      - file: saison_1/gohan_kumite
+
   - caption: Ceinture orange-verte
     chapters:
     - file: saison_2/atemi
