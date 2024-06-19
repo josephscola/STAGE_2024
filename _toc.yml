@@ -7,6 +7,8 @@ parts:
   - caption: Ceinture blanche-jaune
     chapters:
     - file: saison_1/decouverte
+      sections:
+      - file: saison_1/enbusen
     - file: saison_1/atemi_blocages
     - file: saison_1/deplacements
       sections:
