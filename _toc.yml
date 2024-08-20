@@ -4,6 +4,12 @@
 format: jb-book
 root: progression
 parts:
+  - caption:
+    chapters:
+    - file: liste/exercices
+      sections:
+      - file: liste/exos_deplacements
+      
   - caption: Ceinture blanche-jaune
     chapters:
     - file: saison_1/decouverte
@@ -33,4 +39,5 @@ parts:
     - file: saison_2/heian_sandan
   - caption: Annexes
     chapters:
+    - file: annexes/lexique
     - file: annexes/anatomie
