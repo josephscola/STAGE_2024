@@ -15,7 +15,7 @@
 - _MAWARI ASHI_ :   rotation autour du pied avant
 - _USHIRO MAWARI ASHI_  : rotation autour du pied arrière
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BOdWwpITIBA?si=e9UWHkcerKOVWXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/BOdWwpITIBA?si=e9UWHkcerKOVWXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Positions
@@ -39,7 +39,7 @@
 - _HANGESTU DACHI_ :   Position du sablier élargie
 - _TSURU ASHI DACHI_ :   debout sur une jambe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JRDIreijpts?si=yaQpfwOAs9piyppf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/JRDIreijpts?si=yaQpfwOAs9piyppf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Blocages
 - _GEDAN BARAI_ :   Défense basse par un mouvement de balayage avec le bras
@@ -59,7 +59,7 @@
 - _OTOSHI UKE_ :  Défense en frappant avec l’avant bras vers le bas
 - _KOKEN UKE_ :    Défense avec le poignet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1X56uP5vCFE?si=H5ZiqnXPxeUHmzzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/1X56uP5vCFE?si=H5ZiqnXPxeUHmzzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Coups de poings
@@ -72,7 +72,7 @@
 - _KOKEN UCHI_ :   Attaque avec le dessus du poignet
 - _HAISHU UCHI_ :   Attaque avec le dos de la main
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSr15oM3H84?si=RBJWkhnlmAQkqZEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/YSr15oM3H84?si=RBJWkhnlmAQkqZEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Coups de pied
@@ -93,4 +93,4 @@
 - _NAMI GAESHI_ :   Coup de pied en vague (mouvement remontant avec la plante du pied)
 - _KAKATO GERI_ :   Coup de talon de haut en bas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1yH-UDNcouE?si=XaZflpluSjRNeAen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/1yH-UDNcouE?si=XaZflpluSjRNeAen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
