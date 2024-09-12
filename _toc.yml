@@ -8,13 +8,17 @@ parts:
     chapters:
     - file: liste/exercices
       sections:
+      - file: liste/echauffements
       - file: liste/exos_deplacements
+      - file: liste/exos_zuki
+      - file: liste/exos_geri
+      - file: liste/modalites
       
   - caption: Ceinture blanche-jaune
     chapters:
     - file: saison_1/decouverte
       sections:
-      - file: saison_1/enbusen
+      - file: saison_1/decouverte_1
     - file: saison_1/atemi_blocages
     - file: saison_1/deplacements
       sections:
@@ -25,6 +29,8 @@ parts:
       - file: saison_1/deplacements_5
     - file: saison_1/geri
     - file: saison_1/heian_shodan
+      sections:
+      - file: saison_1/enbusen
       sections:
       - file: saison_1/gohan_kumite
 
