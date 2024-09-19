@@ -23,8 +23,8 @@
 |Échauffement/noms japonais|Méli-mélo stop @[hajime, yame, yoi] | 60 &rarr; 80 % | | 5' |
 |Apprendre à fermer le poing |répéter bras tendus, indiv et sur un baton (ens.) | | | 3'|
 |Intégrer le geste du ikité | double, tendu, simple ikite | 30 % | pouce à l'extérieur |2' |
-|Réagir à une attaque | uke : tendu-ikite, tori : frappe dessus main uke, autre main dans le dos | 3 séries de 5 chacun @ 100 % | uke doitgs serrés | 5' |
-| Répartir le poids sur zenkutsu | depuis yoi slomo | 1 x 5 chaque côté, 30 %| | 1 '|
+|Réagir à une attaque | uke : tendu-ikite, tori : frappe dessus main uke, autre main dans le dos | 3 séries de 5 chacun @ 100 % | uke doigts serrés | 5' |
+| Répartir le poids sur zenkutsu | depuis yoi slomo (kakiwake uke)| 1 x 5 chaque côté, 30 %| | 1 '|
 | Transfert de poids sur zenkutsu | depuis yoi  | 1 x 5 chaque côté, 50 %| |1 '|
 | Equilibre sur zenkutsu | depuis yoi  | 1 x 5 chaque côté, 100 %| |1 '|
 | Prendre conscience de la position des pieds |depuis yoi j. d. dans cerceau| 1 x 5 chaque côté, 60 %| ne pas glisser sur le cerceau| 1'|
