@@ -19,6 +19,7 @@ parts:
     - file: saison_1/decouverte
       sections:
       - file: saison_1/decouverte_1
+      - file: saison_1/decouverte_2
     - file: saison_1/atemi_blocages
     - file: saison_1/deplacements
       sections:
