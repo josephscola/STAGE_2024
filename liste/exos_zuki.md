@@ -7,12 +7,14 @@
 
 ## Vitesse
 - La Machine
-- 
+
 ## Force
 - Défonce-pao
 - Locomotive (ataché à un élastique)
 
 ## Précision/distance
+- commandement rouge/bleu sur cible unique
+- commandement cible rouge ou bleu (gyaku, kizami croisé)
 - Dans le mille qui bouge vertical
 - Cible distance variable
 - Lâché de cible
