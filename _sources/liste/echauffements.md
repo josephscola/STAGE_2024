@@ -28,6 +28,7 @@
 	+ cloche-pied
 	+ brouette
 	+ pompes croco (+++)
+- LHC (accélérateur de particules : accélérer un peu à chaque mur)
 - saute-mawashi
 - sautillements/shadow
 - tours de tapis :
