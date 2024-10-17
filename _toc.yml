@@ -23,6 +23,8 @@ parts:
       - file: saison_1/decouverte_3
       - file: saison_1/decouverte_4
     - file: saison_1/atemi_blocages
+      sections:
+      - file: saison_1/mae_geri
     - file: saison_1/deplacements
       sections:
       - file: saison_1/deplacements_1
