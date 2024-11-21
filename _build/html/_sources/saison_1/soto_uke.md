@@ -10,23 +10,23 @@
 
 ## Matériel
 - cibles
+- gants
 
 ## Programme de la séance :
 
 | Objectif | Description | Intensité | Sécurité | Durée |
 |:--------:|:-----------:|:---------:|:--------:|:-----:|
 | Entrer dans la séance| Salut |  | m.g. puis m.d. 2"| 2' |
-| Echauffement des articulations | articulations coudes, poignets, chevilles  ! sur une jambe ! | | | 2' |
-| Elevation du rythme cardiaque | animaux (tétard, brouette) | | | 5' |
-| Réactiver les techniques précédentes | KYON YOI (OI, GEDAN, MAE GERI) | | | 3' |
-| Réactiver les techniques précédentes | KYON 5 pas (OI, GEDAN, MAE GERI) | bas sur les positions | | 5' |
-| Découvrir TETSUI | KYON YOI | | | 3' |
-| Coordonner TETSUI en déplacement | KYON 5 pas | | | 5' |
-| Découvrir JODAN AGE UKE | KYON YOI | | | 3' |
-| Coordonner JODAN AGE UKE en déplacement | KYON 5 pas | | | 5' |
+| Echauffement des articulations | articulations coudes, poignets, chevilles | | | 2' |
+| Elevation du rythme cardiaque | voiture-balais | | | 5' |
+| Elevation du rythme cardiaque | épervier 1 contre 1 | | | 5' |
+| Découvrir SOTO UKE | KYON YOI | | | 3' |
+| Coordonner SOTO UKE en déplacement | KYON 5 pas | | | 5' |
+| Réactiver précédentes et Introduire GYAKU | KYON 5 pas (OI, GEDAN, AGE, MAE GERI, TETSUI) | bas sur les positions | | 5' |
 | | Boire | |
-| Appliquer en assaut hors distance | HIKI blocage - AYUMI riposte (déclenché mouvement ens. puis élève) | chaise musicale, 100 %| | 5' |
-| Appliquer en assaut codifié | tori : TETSUI freeze; uke : HIKI JODAN AGE UKE - GYAKU ZUKI | | contrôle visage | 6 x 1' | 
-| Introduire les déplacements multidirectionnels | ping-pong GEDAN BARAI OI ZUKI sur cible (et mur)  | course sur 10 a/r | pas d'impact sur le mur | 5' |
-| Retour au calme | Application self défense de AGE UKE  | 10 % | | 3' |
+| Appliquer en assaut codifié | tori : OI ZUKI freeze; uke : HIKI SOTO UKE - GYAKU ZUKI | | contrôle corps| 4' | 
+| Appliquer en assaut hors distance | HIKI blocage - GYAKU riposte (déclenché mouvement ens. puis élève) | chaise musicale, 100 %| | 5' |
+| Ajuster la distance de riposte | uke : tient cible, tori : GYAKU sur 5 pas a/r | 3 changements partenaires | verrouillage poignet | 6 ' |
+| Retour au calme | GPS | | | 3' |
+| Retour au calme 2 | Assouplissements jambes | 10 % | | 3' |
 | Clore la séance | Salut | | | 2' |
