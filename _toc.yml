@@ -30,6 +30,7 @@ parts:
       - file: saison_1/gyaku_zuki
     - file: saison_1/deplacements
       sections:
+      - file: saison_1/yuri_ashi
       - file: saison_1/deplacements_1
       - file: saison_1/deplacements_2
       - file: saison_1/deplacements_3
