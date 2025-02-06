@@ -33,6 +33,7 @@ parts:
       - file: saison_1/yuri_ashi
       - file: saison_1/kokutsu
       - file: saison_1/go_no_sen
+      - file: saison_1/multidirectionnel
       - file: saison_1/deplacements_1
       - file: saison_1/deplacements_2
       - file: saison_1/deplacements_3
