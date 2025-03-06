@@ -28,18 +28,15 @@ parts:
       - file: saison_1/age_uke
       - file: saison_1/soto_uke
       - file: saison_1/gyaku_zuki
-    - file: saison_1/deplacements
+    - file: saison_1/introduction_au_kumite
       sections:
       - file: saison_1/yuri_ashi
       - file: saison_1/kokutsu
       - file: saison_1/go_no_sen
       - file: saison_1/multidirectionnel
-      - file: saison_1/deplacements_1
-      - file: saison_1/deplacements_2
-      - file: saison_1/deplacements_3
-      - file: saison_1/deplacements_4
-      - file: saison_1/deplacements_5
-    - file: saison_1/geri
+    - file: saison_1/techniques_avancees
+      sections:
+      - file: saison_1/pivots 
     - file: saison_1/heian_shodan
       sections:
       - file: saison_1/enbusen
