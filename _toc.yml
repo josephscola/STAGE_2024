@@ -36,7 +36,8 @@ parts:
       - file: saison_1/multidirectionnel
     - file: saison_1/techniques_avancees
       sections:
-      - file: saison_1/pivots 
+      - file: saison_1/pivots
+      - file: saison_1/mawashi
     - file: saison_1/heian_shodan
       sections:
       - file: saison_1/enbusen
