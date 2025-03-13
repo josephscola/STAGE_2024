@@ -29,7 +29,7 @@
 | Décomposer MAWASHI | contre le mur (armer, tourner, déployer + idem retour) | 3 hauteurs de frappe (comptage élèves)| sans force | 5' |
 | Contrôler pivot j. appui | par 2, MAWASHI repose derrière, appui sur l'épaule | x20 g-d | contrôler orientation orteils | 3' |
 | Pratiquer la forme KYON | ZENKUTSU, MAWASHI repose derrière | x10 simple, x10 doublés | | 4' |
-| Armer le MAWASHI | MAWASHI dans pao ens (2 en //)| x5 genou, x5 pied | rotation j. appui |  4' |
+| Appliquer le MAWASHI | MAWASHI dans pao ens (2 en //)| x5 genou, x5 pied | rotation j. appui |  4' |
 | Elever le rythme cardiaque | Poto-poto-but en étoile (cmd ens) | vitesse (x5) | gants | 6' |
 | Retour au calme | Assouplissements jambes | 10 % | | 6' |
 | Clore la séance | Salut | | | 2' |
