@@ -40,6 +40,7 @@ parts:
       - file: saison_1/mawashi
       - file: saison_1/kizami_mawashi
       - file: saison_1/kizami_mawashi_bis
+      - file: saison_1/sanbon_kumite
     - file: saison_1/heian_shodan
       sections:
       - file: saison_1/enbusen
