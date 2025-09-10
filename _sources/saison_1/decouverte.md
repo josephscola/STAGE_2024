@@ -4,3 +4,6 @@
 - découverte kyon
 - découverte kata
 - découverte kumite
+
+```{tableofcontents}
+```
