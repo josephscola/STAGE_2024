@@ -2,7 +2,7 @@
 
 |Niveau | Age | Objectif annuel | Cycle | Séance |
 |:-:|:-:|:-:|:-:|:-:|
-|débutant | 6-8 ans | ceinture jaune | I/V | 3/5 |
+|débutant | 6-8 ans | ceinture jaune | I/V | 5/5 |
 
 ## Objectifs principaux :
 - Découvrir l'opposition en sécurité

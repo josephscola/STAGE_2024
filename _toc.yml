@@ -18,6 +18,7 @@ parts:
     chapters:
     - file: saison_1/decouverte
       sections:
+      - file: saison_1/decouverte_0
       - file: saison_1/decouverte_1
       - file: saison_1/decouverte_2
       - file: saison_1/decouverte_3

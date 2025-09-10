@@ -10,7 +10,6 @@
 - jeux
 
 ## Matériel
-- plots
 - morceaux de ceinture
 
 ## Programme de la séance :
@@ -22,8 +21,8 @@
 | Développer explosivité | relais bonds | disposer marques record indiv. à battre| 1 par 1 | 3' |
 | Développer explosivité | course a/r - 1/2 tour au signal |  | délimiter couloirs | 4' |
 | | Gants | |
-| Développer explosivité randori | par 2, tori: KIZAMI dans gant adv. en partant de plus en plus loin; plots délimitent distances | 5 x 3 distances | | 6' |
-| Développer vitesse précision | par 2, tori: ZUKI dans gant adv., tori: retire gant. Plots délimitent distances | libre puis KIZAMI, GYAKU | | 6' |
+| Développer explosivité randori | par 2, tori: KIZAMI dans gant adv. en partant de plus en plus loin; tapis délimitent distance | 5 x 3 distances | | 6' |
+| Développer vitesse précision | par 2, tori: ZUKI dans gant adv., tori: retire gant. tapis délimitent distance | libre puis KIZAMI, GYAKU | | 6' |
 | | Boire | |
 | Utiliser le regard pour le compas| Réaliser le compas en se laissant diriger par la rotation de la tête | abaisser position depuis HEISOKU &rarr; ZENKUTSU | espacer | 5' |
 | Préparer SANBON KYON KUMITE | JODAN OI ZUKI x3, HIKI GEDAN BARAI + GYAKU | lent, bas, vite, KIME | | 5' |
