@@ -13,7 +13,14 @@ parts:
       - file: liste/exos_zuki
       - file: liste/exos_geri
       - file: liste/modalites
-      
+
+  - caption: Baby karate
+    chapters:
+    - file: saison_0/cycle_1
+      sections:
+      - file: saison_0/decouverte_scolaire
+      - file: saison_0/cycle_1_1
+
   - caption: Ceinture blanche-jaune
     chapters:
     - file: saison_1/decouverte

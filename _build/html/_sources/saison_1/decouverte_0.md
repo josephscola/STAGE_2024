@@ -1,4 +1,4 @@
-# Ikite & mawate
+# Séance DECOUVERTE
 
 |Niveau | Age | Objectif annuel | Cycle | Séance |
 |:-:|:-:|:-:|:-:|:-:|
