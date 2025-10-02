@@ -1,9 +1,9 @@
-# Cycle I : Découverte
+# Cycle I : On joue
 
 - découverte rituels
+- découverte commandements
+- découverte opposition
 - découverte kyon
-- découverte kata
-- découverte kumite
 
 ```{tableofcontents}
 ```
