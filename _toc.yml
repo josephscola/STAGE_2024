@@ -21,6 +21,7 @@ parts:
       - file: saison_0/decouverte_scolaire
       - file: saison_0/cycle_1_1
       - file: saison_0/cycle_1_2
+      - file: saison_0/cycle_1_3
 
   - caption: Ceinture blanche-jaune
     chapters:

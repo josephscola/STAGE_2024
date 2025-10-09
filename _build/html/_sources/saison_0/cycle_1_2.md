@@ -1,4 +1,4 @@
-# Séance 1 cycle 2
+# Premiers déplacements
 
 |Niveau | Age | Objectif annuel | Cycle | Séance |
 |:-:|:-:|:-:|:-:|:-:|
