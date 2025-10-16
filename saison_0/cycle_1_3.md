@@ -4,13 +4,15 @@
 |:-:|:-:|:-:|:-:|:-:|
 |débutant | 5-7 ans | ceinture blanc-jaune | I/V | 3/5 |
 
-## Objectifs principaux :
+## Objectifs principaux
 - GEDAN BARAI
 
-## Matériel :
-- cibles (b/r)
+## Matériel
+- plots
+- cibles
+- 1 barriere de ceinture
 
-## Programme de la séance :
+## Programme de la séance 
 
 | Objectif | Description | Intensité | Sécurité | Durée |
 |:-:|:-:|:-:|:-:|:-:|
@@ -23,7 +25,7 @@
 | Coordonner les bras lors d'un blocage | HACHIJI DACHI GEDAN BARAI (IKITE = EMPI) | 30 % | 2 lignes | 2' |
 | Développer la coordination bras-jambes | Sgt Garcia ZENKUTSU GEDAN BARAI depuis YOI | 30 % | 2 lignes | 2'|
 | | BOIRE | | | 5' |
-| Distinguer YURI et AYUMI ASHI| Parcours : &uarr; YURI, ZUKI &darr; YURI EMPI, &uarr; AYUMI, ZUKI &darr; AYUMI EMPI | 30 &rarr; 80% | 1 par 1 | 12' |
+| Distinguer YURI et AYUMI ASHI| Parcours (contre mur) : &uarr; YURI, ZUKI &darr; YURI EMPI, &uarr; AYUMI, ZUKI &darr; AYUMI EMPI | 30 &rarr; 80% | 1 par 1 | 12' |
 | Retour au calme | muscu abdo (grenouille et pédalo) | 0% | | 6' |
 | Retour au calme | étirements jambes | 0% | | 6' |
 | Clore la séance | Salut | | | 2' |

@@ -1,17 +1,17 @@
-# Séance 1 cycle 1
+# Premiers pas sur le tatami
 
 |Niveau | Age | Objectif annuel | Cycle | Séance |
 |:-:|:-:|:-:|:-:|:-:|
 |débutant | 5-7 ans | ceinture blanc-jaune | I/V | 1/5 |
 
-## Objectifs principaux :
+## Objectifs principaux 
 - Développer la latéralisation
 - Apprendre le travail collectif
 
-## Matériel :
+## Matériel
 - cibles (b/r)
 
-## Programme de la séance :
+## Programme de la séance
 
 | Objectif | Description | Intensité | Sécurité | Durée |
 |:-:|:-:|:-:|:-:|:-:|
