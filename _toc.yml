@@ -24,6 +24,9 @@ parts:
       - file: saison_0/cycle_1_3
       - file: saison_0/cycle_1_4
       - file: saison_0/cycle_1_5
+    - file: saison_0/cycle_2
+      sections:
+      - file: saison_0/cycle_2_1
 
   - caption: Ceinture blanche-jaune
     chapters:
