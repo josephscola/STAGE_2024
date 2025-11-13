@@ -7,13 +7,13 @@
 ## Objectifs principaux
 - Apprendre JODAN AGE UKE
 - Construire la proprioception (côté de la jambe avant)
-- 
+
  
 ## Matériel
 - sac de frappe
 - 1 cible
 - 1 frite
-- bouts de ceinture à nouer à l cheville
+- bouts de ceinture à nouer à la cheville
 
 ## Programme de la séance 
 

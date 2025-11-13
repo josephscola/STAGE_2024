@@ -26,7 +26,8 @@ parts:
       - file: saison_0/cycle_1_5
     - file: saison_0/cycle_2
       sections:
-      - file: saison_0/cycle_2_1
+      - file: saison_0/jodan_age_uke
+      - file: saison_0/yuri
 
   - caption: Ceinture blanche-jaune
     chapters:
