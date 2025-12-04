@@ -29,6 +29,7 @@ parts:
       - file: saison_0/jodan_age_uke
       - file: saison_0/yuri
       - file: saison_0/mae_geri
+      - file: saison_0/premier_kihon
 
   - caption: Ceinture blanche-jaune
     chapters:
