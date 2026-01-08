@@ -5,7 +5,7 @@
 - _HIDARI_ : gauche
 
 ## Déplacements
-- _AYUMI ASCHI_ :   avancer d’un pas 
+- _AYUMI ASHI_ :   avancer d’un pas 
 - _HIKI  ASHI_ :   reculer d’un pas
 - _MAWATE_ : se retourner en déplaçant la jambe arrière
 - _YORI ASHI_ :   pas glissé

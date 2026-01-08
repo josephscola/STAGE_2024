@@ -30,6 +30,9 @@ parts:
       - file: saison_0/yuri
       - file: saison_0/mae_geri
       - file: saison_0/premier_kihon
+    - file: saison_0/cycle_3
+      sections:
+      - file: saison_0/yuri2
 
   - caption: Ceinture blanche-jaune
     chapters:

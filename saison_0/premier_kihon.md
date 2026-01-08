@@ -12,7 +12,6 @@
  
 ## Matériel
 - N cibles
-- frittes
 
 ## Programme de la séance 
 
