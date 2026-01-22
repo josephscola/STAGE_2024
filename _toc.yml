@@ -33,6 +33,7 @@ parts:
     - file: saison_0/cycle_3
       sections:
       - file: saison_0/yuri2
+      - file: saison_0/ayumi
 
   - caption: Ceinture blanche-jaune
     chapters:

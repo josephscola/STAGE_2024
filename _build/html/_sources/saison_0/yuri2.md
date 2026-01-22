@@ -26,7 +26,7 @@
 | Descendre sur les position | GOHAN KIHON ZENKUTSU DACHI &uarr; OI ZUKI, &darr; SOTO UKE | 50 % | genou av au-dessus des orteils, pied arr vers l'avant | 2' |
 | Pratiquer YURI ASHI dans les 4 directions| YURI ASHI &larr; &rarr; &uarr; &darr; | g & d | ne pas croiser les jambes | 4' |
 | Joindre le déplacement au blocage | GEDAN BARAI &larr; SOTO UKE &rarr; GYAKU ZUKI &uarr; GYAKU ZUKI &darr; | g & d | frapper après le déplacement | 5' |
-| Se repérer dans l'espace | par 2 : uke imite en miroir l'enchaînemenr  précédente faite par tori | x3, inverser rôles & places | | 3' |
+| Se repérer dans l'espace | par 2 : uke imite en miroir l'enchaînement  précédente faite par tori | x3, inverser rôles & places | | 3' |
 | | BOIRE | | | 5' |
 | Ajuster le déplacement à la cible | saute-mouton : tori attaque YURI ASHI GYAKU ZUKI sur N-1 partenaires positionné·es dans cerceaux disposés en carré | YURI &uarr; &rarr, g & d | | 15' |
 | Retour au calme | Assouplissements des jambes | 0% | | 5' |
