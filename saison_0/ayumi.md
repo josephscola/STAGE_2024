@@ -22,7 +22,7 @@
 | Échauffement spécifique | araignée, têtard, canard, brouette | | 2 équipes | 5' |
 | Préparer MAWASHI GERI | a-r en "skieur" (MAWASHI HIZA GERI) | | 2 équipes | 1' |
 | Découvrir la trajectoire de ZENKUTSU | Virgule ZENKUTSU | | | 2' |
-| Grouper les pieds en déplacement ZENKUTSU | 1. "Groupir"  2. &uarr; ou &rarr; ou &arrd; (cmd oral ou visuel) | g-d | 2 lignes | 5' |
+| Grouper les pieds en déplacement ZENKUTSU | 1. "Groupir"  2. &uarr; ou &rarr; ou &darr; (cmd oral ou visuel) | g-d | 2 lignes | 5' |
 | Se déplacer en ZENKUTSU | KAKEWAKE UKE 5 pas a-r | partir haut sur les positions | genou av au-dessus des orteils, pied arr vers l'avant | 3' |
 | | BOIRE | | | 5' |
 | Se déplacer en coordination avec partenaire | par 2 tori : AYUMI, uke : HIKI (cmd ens, puis tori) | ajouter éventuellement les bras | hors distance | 10' |
