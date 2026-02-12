@@ -35,6 +35,7 @@ parts:
       - file: saison_0/yuri2
       - file: saison_0/ayumi
       - file: saison_0/mawashi
+      - file: saison_0/mawashi2
 
   - caption: Ceinture blanche-jaune
     chapters:
