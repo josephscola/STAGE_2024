@@ -1,4 +1,4 @@
-# Cycle III : Vers le travail à deux
+# Cycle IV : Préparation passage de grade
 
 ## Objectifs
 - se déplacer en respectant la position DASHI

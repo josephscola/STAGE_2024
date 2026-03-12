@@ -32,6 +32,12 @@
 1. MAWATE (g &rarr; d)
 2. HIKI ASHI (d &rarr; g)
 
+### "2 en avant, 2 en arrière"
+1. AYUMI ASHI(o &rarr; g)
+2. AYUMI ASHI(g &rarr; d)
+3. USHIRO MAWASHI HIKI ASHI (d &rarr; d)
+4. AYUMI ASHI (d &rarr; g)
+
 ### "Le ping-pong"
 1. AYUMI ASHI (g &rarr; d)
 2. USHIRO MAWASHI HIKI ASHI (d &rarr; d)
