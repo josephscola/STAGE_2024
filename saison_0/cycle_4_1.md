@@ -28,5 +28,5 @@ rien
 | Intégrer les conventions du IPPON KUMITE | IPPON KIHON : SOTO UKE, JODAN AGE UKE (cmd vx, clap, réaction) | | jambe droite recule | 5' |
 | Intégrer les conventions du IPPON KUMITE | IPPON KIHON : SHUDAN OI ZUKI, JODAN OI ZUKI (cmd vx, geste) | | jambe droite recule | 5' |
 | Pratiquer le IPPON KUMITE | par 2 JODAN et SHUDAN | hors distance puis distance puis changer | | 15' |
-| Retour au calme | étirements | |  | 5' |
+| Retour au calme | Etirements | |  | 5' |
 | Clore la séance | Salut | | | 2' |
